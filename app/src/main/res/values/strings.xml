@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Timetable App</string>
+    <string name="app_name">Timetable</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -7,9 +7,9 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_transform">Transform</string>
-    <string name="menu_reflow">Reflow</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_transform">Home</string>
+    <string name="menu_reflow">Dashboard</string>
+    <string name="menu_slideshow">Library</string>
     <string name="menu_settings">Settings</string>
 
     <string name="lorem_ipsum_title">Lorem Ipsum"</string>
